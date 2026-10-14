@@ -1,0 +1,6 @@
+{
+  "name": "StockFacile",
+  "description": "Application simple et moderne de gestion de stock, ventes et bénéfices en FCFA pour commerces de téléphones et accessoires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
